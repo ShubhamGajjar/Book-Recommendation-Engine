@@ -1,6 +1,6 @@
 # Book Recommendation Engine
 
-A production-ready book recommendation engine with a modern React + TypeScript frontend and Python Flask backend. Uses efficient data loading, content-based, popularity-based, and hybrid recommendation strategies.
+A Project on book recommendation engine with a modern React + TypeScript frontend and Python Flask backend. Uses efficient data loading, content-based, popularity-based, and hybrid recommendation strategies.
 
 ## Features
 
